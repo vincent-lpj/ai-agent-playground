@@ -1,0 +1,17 @@
+[project]
+name = "ai-agent-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autogen-agentchat>=0.7.5",
+    "autogen-ext[ollama]>=0.7.5",
+    "google-adk>=1.26.0",
+    "ipython>=9.10.0",
+    "langchain>=1.2.10",
+    "langchain-ollama>=1.0.1",
+    "langgraph>=1.0.10",
+    "litellm>=1.82.0",
+    "python-dotenv>=1.2.1",
+]
