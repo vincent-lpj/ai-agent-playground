@@ -10,6 +10,7 @@ dependencies = [
     "google-adk>=1.26.0",
     "ipython>=9.10.0",
     "langchain>=1.2.10",
+    "langchain-mcp-adapters>=0.2.1",
     "langchain-ollama>=1.0.1",
     "langgraph>=1.0.10",
     "langgraph-checkpoint-postgres>=3.0.4",

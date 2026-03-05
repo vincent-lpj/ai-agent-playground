@@ -9,4 +9,7 @@ uv add ipython
 
 # To use checkpoint and store (PostgreSQL)
 uv add psycopg langgraph-checkpoint-postgres
+
+# To use MCP Adapters
+uv add langchain_mcp_adapters
 ```
